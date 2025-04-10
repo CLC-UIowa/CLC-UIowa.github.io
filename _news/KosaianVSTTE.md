@@ -1,6 +1,6 @@
 ---
 title: Kosaian PC co-chair for VSTTE25
-date: 2024-01-01
+date: 2025-01-01
 author: Katherine Kosaian
 layout: post
 ---

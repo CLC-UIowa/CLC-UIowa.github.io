@@ -1,5 +1,5 @@
 ---
-title: Morris receives a Distinguished Paper Award at POPL
+title: Morris receives a Distinguished Paper Award at POPL'24
 date: 2024-01-17
 author: Garrett Morris
 layout: post

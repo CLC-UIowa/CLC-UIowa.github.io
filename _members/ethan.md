@@ -1,7 +1,7 @@
 ---
 name: Ethan Rooke
 pronouns: he/him
-role: Postdoctoral scholar
+role: Postdoctoral Scholar
 interests: Applications of geometric and topological techniques, formal methods
 email: ethan-rooke@uiowa.edu
 website: https://ethan.roo.ke

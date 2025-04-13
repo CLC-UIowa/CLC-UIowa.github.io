@@ -16,7 +16,7 @@ nav_order: 1
 {% endfor %}
 </div>
 
-## Research Scientistss
+## Research Scientists
 
 <div class="row">
 {% assign members = site.members | where: 'role', 'Research Scientist' %}
@@ -28,7 +28,7 @@ nav_order: 1
 ## Postdoctoral Scholars
 
 <div class="row">
-{% assign members = site.members | where: 'role', 'Research Scientist' %}
+{% assign members = site.members | where: 'role', 'Postdoctoral Scholar' %}
 {% for member in members %}
 {{ member | slice: 106, 1000 }} <!-- HACK! -->
 {% endfor %}

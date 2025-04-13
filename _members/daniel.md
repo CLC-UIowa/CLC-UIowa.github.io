@@ -2,7 +2,6 @@
 name: Daniel Larraz
 pronouns: he/him
 role: Research Scientist
-subrole: Research Scientist
 interests: Formal Verification, Automated Reasoning
 email: daniel-larraz@uiowa.edu
 website: https://daniel-larraz.github.io/

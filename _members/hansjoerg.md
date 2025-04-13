@@ -1,8 +1,7 @@
 ---
 name: Hans-Jörg Schurr
 pronouns: he/him
-role: Research Scientist
-subrole: Postdoctoral Scholar and Adjunct Assistant Professor
+role: Postdoctoral Scholar and Adjunct Assistant Professor
 interests: SMT Solving
 email: hansjoerg-schurr@uiowa.edu
 website: https://schurr.io

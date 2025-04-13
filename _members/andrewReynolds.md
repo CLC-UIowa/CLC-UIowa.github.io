@@ -2,7 +2,6 @@
 name: Andrew Reynolds
 pronouns: he/him
 role: Research Scientist
-subrole: Research Scientist
 interests: SMT, Automated Theorem Proving, Synthesis
 email: andrew-reynolds@uiowa.edu
 website: https://homepage.cs.uiowa.edu/~ajreynol/

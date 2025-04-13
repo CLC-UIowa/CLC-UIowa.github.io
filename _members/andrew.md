@@ -1,8 +1,7 @@
 ---
 name: Andrew Marmaduke
 pronouns: he/him
-role: Research Scientist
-subrole: Postdoctoral Scholar
+role: Postdoctoral Scholar
 interests: Dependent Type Theory, Programming Languages
 email: andrew-marmaduke@uiowa.edu
 website: https://uiowa.marmamorphism.com/#:~:text=Andrew%20Marmaduke

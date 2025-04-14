@@ -1,6 +1,6 @@
 ---
 title: Tinelli keynote speaker at SAT 2024
-date: 2024-05-25
+date: 2024-08-21
 author: Cesare Tinelli
 layout: post
 ---

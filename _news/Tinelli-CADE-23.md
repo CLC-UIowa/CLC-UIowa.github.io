@@ -1,6 +1,6 @@
 ---
-title: Tinelli keynote speaker at SAT 2024
-date: 2024-05-25
+title: Tinelli PC co-chair for CADE29
+date: 2023-07-01
 author: Cesare Tinelli
 layout: post
 ---

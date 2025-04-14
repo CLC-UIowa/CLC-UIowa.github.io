@@ -13,7 +13,7 @@ Please contact one of the CLC faculty directly for open postdoc positions.
 
 ### Graduate Students
 
-Perspective applicants to our department's PhD program who are interested in joining our group are encouraged to mention this in their application. See also [this general note](https://homepage.cs.uiowa.edu/~tinelli/html/prospective.html) for prospective graduate students.
+Prospective applicants to our department's PhD program who are interested in joining our group are encouraged to mention this in their application. See also [this general note](https://homepage.cs.uiowa.edu/~tinelli/html/prospective.html) for prospective graduate students.
 
 Local graduate students interested in joining the group may want first to take a class taught by one of our faculty or postdocs. Examples of such classes include:
 

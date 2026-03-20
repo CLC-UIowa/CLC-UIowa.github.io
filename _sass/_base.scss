@@ -216,6 +216,8 @@ blockquote {
   }
 
   .navbar-nav .nav-item .nav-link {
+    min-height: 44px;
+    min-width: 44px;
     color: var(--global-text-color);
 
     &:hover {

@@ -22,8 +22,9 @@
         <div class="row">
           <!-- main content area -->
           <div class="col-sm-9">
-            
+            <main>
             {{ content }}
+            </main>
           </div>
           <!-- sidebar, which will move to the top on a small screen -->
           <div class="col-sm-3">
@@ -38,12 +39,16 @@
           </div>
           <!-- main content area -->
           <div class="col-sm-9">
+            <main>
             {{ content }}
+            </main>
           </div>
         </div>
         {% endif %}
       {% else %}
+        <main>
         {{ content }}
+        </main>
       {% endif %}
     </div>
 

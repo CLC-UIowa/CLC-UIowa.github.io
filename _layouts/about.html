@@ -30,9 +30,11 @@ layout: default
               cache_bust=true -%}
             {% endif -%}
             {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
+            <footer>
+              <address>
+                {{ page.profile.address }}
+              </address>
+            </footer>
             {%- endif %}
           </div>
           {%- endif %}
@@ -73,5 +75,4 @@ layout: default
             </div>
           {%- endif %}
         </article>
-
 </div>

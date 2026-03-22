@@ -7,7 +7,7 @@ profile:
   image: mlh.jpg
   image_circular: false
   address: >
-    <p> Computational Logic Center</p>
+    <p>Computational Logic Center</p>
     <p>The University of Iowa</p>
     <p>1 Jessup Hall</p>
     <p>Iowa City, IA 52242</p>

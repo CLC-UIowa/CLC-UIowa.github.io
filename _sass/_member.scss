@@ -31,6 +31,10 @@
     user-select: none;
   }
 
+  .member-pronouns.text-transform-none {
+    text-transform: lowercase;
+  }
+
   .member-meta {
     dt, dd, dd + dt {
       margin-top: 0;

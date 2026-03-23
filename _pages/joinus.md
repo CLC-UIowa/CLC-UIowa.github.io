@@ -7,11 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-### Postdocs
+## Postdocs
 
 Please contact one of the CLC faculty directly for open postdoc positions.
 
-### Graduate Students
+## Graduate Students
 
 Prospective applicants to our department's PhD program who are interested in joining our group are encouraged to mention this in their application. See also [this general note](https://homepage.cs.uiowa.edu/~tinelli/html/prospective.html) for prospective graduate students.
 
@@ -27,7 +27,7 @@ Local graduate students interested in joining the group may want first to take a
 - CS:5810 Formal Methods in Software Engineering
 - CS:5850 Programming Language Foundations
 
-### Undergraduate Students
+## Undergraduate Students
 
 Undergraduates are also encouraged to contact one of the CLC faculty directly if they are interested in a summer undergraduate research project, or independent study during a regular semester.
 

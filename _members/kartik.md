@@ -6,7 +6,7 @@ subrole: Ph.D. Student
 advisor: Cesare Tinelli
 interests: Automated theorem proving, especially automated induction, and programming languages
 email: kartik-sabharwal@uiowa.edu
-website: https://homepage.cs.uiowa.edu/~ksabharwal/
+website: https://kartik-sabharwal.github.io/
 photo: kartik.jpg
 layout: member
 subpath: '/assets/img/'

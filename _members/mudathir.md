@@ -1,9 +1,7 @@
 ---
 name: Mudathir Mohamed
 pronouns: he/him
-role: Graduate Student
-subrole: Ph.D. Student
-advisor: Cesare Tinelli
+role: Postdoctoral Scholar
 interests: Automated theorem proving
 email: mudathir-mahgoubyahia@uiowa.edu
 website: https://homepage.cs.uiowa.edu/~mahgoubyahia/

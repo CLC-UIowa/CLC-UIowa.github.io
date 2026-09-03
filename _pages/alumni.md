@@ -27,6 +27,7 @@ nav: false
 - Garrin Kimmel, later at Kestrel Institute; Groq Inc.
 - Alain Mebsout, later at OCamlPro
 - Andrew Reynolds, later at EPFL; the University of Iowa and AWS
+- Hans-Jörg Schurr, later at KU Leuven
 - Stephan Spahn
 - Christoph Sticksel, later at MathWorks
 - Nestan Tsiskaridze, later at UC Santa Barbara; Stanford University
